@@ -1,4 +1,4 @@
-#import all the necessary libraries
+# Import all the necessary libraries
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -67,3 +67,6 @@ plt.ylabel('Stock Price')
 plt.title(f'{stock_symbol} Stock Price Prediction using LSTM')
 plt.legend()
 plt.show()
+
+# code link
+https://colab.research.google.com/drive/1oh1ANDLeHEprtQL6ITf_uzbQlyMshac4
